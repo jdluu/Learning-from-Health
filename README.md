@@ -1,6 +1,10 @@
 # Data Science Project - Predicting Income Based on Health Statistics*
 
-Using data from CDC, we created predictive models between income and health conditions like diabetes, high cholesterol, sleep, strokes, and kidney disease. We were able to create a predictive model with 99% accuracy using random forest regression. Alternative models that we tried did not turn out to be as accurate as the random forest regression and were more susceptible to problems such as multicollinearity and poor fitting.
+Using data from CDC, we created predictive models between income and health conditions like diabetes, high cholesterol, sleep, strokes, and kidney disease. 
+
+We were able to create a predictive model with 99% accuracy using random forest regression. 
+
+Alternative models that we tried did not turn out to be as accurate as the random forest regression and were more susceptible to problems such as multicollinearity and poor fitting.
 
 Technologies Used:
 
